@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="192.003" viewBox="0 0 512 192.003">
+  <g id="Group_23" data-name="Group 23" transform="translate(-690 -52)">
+    <path id="Path_66" data-name="Path 66" d="M304,64V288H208V64a48,48,0,0,1,96,0Z" transform="translate(1202 -107.999) rotate(90)" fill="#fcc74b"/>
+    <path id="Path_66-2" data-name="Path 66" d="M304,40V152H208V40c0-13.255,21.49-24,48-24S304,26.745,304,40Z" transform="translate(1202 -107.999) rotate(90)" fill="#f83f3f"/>
+    <path id="Path_66-3" data-name="Path 66" d="M304,24.824V66H208V24.824C208,19.95,229.49,16,256,16S304,19.95,304,24.824Z" transform="translate(1202 -107.999) rotate(90)" fill="#90a4ae"/>
+    <path id="Path_67" data-name="Path 67" d="M336,416a80,80,0,1,1-128-64V288h96v64A79.7,79.7,0,0,1,336,416Z" transform="translate(1202 -107.999) rotate(90)" fill="#53cb88"/>
+    <g id="Group_23-2" data-name="Group 23" transform="translate(1202 -107.999) rotate(90)">
+      <path id="Path_68" data-name="Path 68" d="M256,512a96,96,0,0,1-64-167.552V64a64,64,0,0,1,128,0V344.448A96,96,0,0,1,256,512Zm0-480a32.053,32.053,0,0,0-32,32V352a15.988,15.988,0,0,1-6.366,12.767,64,64,0,1,0,76.734,0A15.989,15.989,0,0,1,288,352V64a32.053,32.053,0,0,0-32-32ZM208,352Z" fill="#eceff1"/>
+      <path id="Path_69" data-name="Path 69" d="M272,128a16,16,0,0,0,0,32h48V128Z" fill="#eceff1"/>
+      <path id="Path_70" data-name="Path 70" d="M272,224a16,16,0,0,0,0,32h48V224Z" fill="#eceff1"/>
+    </g>
+  </g>
+</svg>

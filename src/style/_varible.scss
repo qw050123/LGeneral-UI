@@ -1,0 +1,80 @@
+
+$spacers: ();
+$spacers: map-merge(
+  (
+    0: 0,
+    2: 2px,
+    4: 4px,
+    6: 6px,
+    8: 8px,
+    10: 10px,
+    12: 12px,
+    14: 14px,
+    16: 16px,
+    18: 18px,
+    20: 20px,
+    22: 22px,
+    24: 24px,
+    26: 26px,
+    28: 28px,
+    30: 30px,
+    32: 32px,
+    34: 34px,
+    36: 36px,
+    38: 38px,
+    40: 40px,
+    auto: auto
+  ),
+  $spacers
+);
+$primary: #0883FF;
+$success: #67C23A;
+$warning: #E6A23C;
+$danger: #F56C6C;
+$info: #909399;
+$white: #FFFFFF;
+$black: #000000;
+$gray: #666666;
+$lightGray: rgba(115,137,148,67%);
+$backgroundBlue: #F4FBFE;
+
+$buttonBlue: #4880D9;
+$hoverBlue: #CDEEFD;
+$headerBlue: #B0D7E8;
+
+$darkBlue: #3F7892;
+$mainBlue: #5998C0;
+$lightBlue: #DDF3FE;
+
+$darkRed: #9A0036;
+$mainRed: #D36C9A;
+$lightRed: #FEEBF6; 
+$orangeRed: #FF2222;
+
+$darkKhaki: #95948D;
+$mainKhaki: #F5F3DF;
+$lightKhaki: #FFFDF2;
+
+$mainGreen: #3C763D;
+$lightGreen: #DFF0D8;
+
+$mainGrayBlue: #738994;
+$lightGrayBlue: #E7F7FE;
+
+$pieGreen: #B9E1A1;
+$piePurple: #C3B4FF;
+$pieOrange: #F3CFA6;
+
+$typeColors: ();
+$typeColors: map-merge(
+  (
+    "primary":  $primary,
+    "success":  $success,
+    "warning":  $warning,
+    "danger":   $danger,
+    "info":     $info,
+    "white": #FFFFFF,
+    "black": #000000
+  ),
+  $typeColors
+)

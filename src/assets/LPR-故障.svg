@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="412" viewBox="0 0 512 412">
+  <g id="LPR-故障" transform="translate(-210 -352)">
+    <g id="LPR-故障-2" data-name="LPR-故障" transform="translate(-7 -47)">
+      <g id="Group_24" data-name="Group 24">
+        <path id="Path_69" data-name="Path 69" d="M482,181h30v30H482Zm0,0" transform="translate(217 350)" fill="#999"/>
+        <path id="Path_70" data-name="Path 70" d="M482,241h30v30H482Zm0,0" transform="translate(217 350)" fill="#999"/>
+        <path id="Path_71" data-name="Path 71" d="M482,301h30v30H482Zm0,0" transform="translate(217 350)" fill="#999"/>
+      </g>
+      <path id="Path_72" data-name="Path 72" d="M30,30h75V0H0V105H30Zm0,0" transform="translate(217 401)" fill="#999"/>
+      <path id="Path_73" data-name="Path 73" d="M30,407H0V512H105V482H30Zm0,0" transform="translate(217 299)" fill="#999"/>
+      <path id="Path_74" data-name="Path 74" d="M482,482H407v30H512V407H482Zm0,0" transform="translate(217 299)" fill="#999"/>
+      <path id="Path_75" data-name="Path 75" d="M407,0V30h75v75h30V0Zm0,0" transform="translate(217 399)" fill="#999"/>
+      <g id="license-plate" transform="translate(265 476.996)">
+        <path id="Path_76" data-name="Path 76" d="M389.014,32H32V231.932H389.014ZM46.281,46.284H60.561V60.565H46.281ZM60.561,217.651H46.281V203.371H60.561Zm28.561-49.982a21.449,21.449,0,0,0,21.421-21.421h14.281a35.7,35.7,0,0,1-71.4,0V117.687a35.7,35.7,0,0,1,71.4,0H110.543a21.421,21.421,0,0,0-42.842,0v28.561A21.449,21.449,0,0,0,89.122,167.669ZM139.1,124.828h42.842v14.281H139.1Zm99.964-7.14a21.285,21.285,0,0,1-5.568,14.281,21.251,21.251,0,0,1,5.568,14.281v14.281a21.449,21.449,0,0,1-21.421,21.421h-35.7V167.669h35.7a7.15,7.15,0,0,0,7.14-7.14V146.248a7.15,7.15,0,0,0-7.14-7.14H196.226V124.828h21.421a7.15,7.15,0,0,0,7.14-7.14V103.407a7.15,7.15,0,0,0-7.14-7.14h-35.7V81.986h35.7a21.449,21.449,0,0,1,21.421,21.421Zm71.4,49.982V181.95H253.349V164.713l34.837-34.837a27.161,27.161,0,0,0,8-19.329,14.281,14.281,0,0,0-28.561,0v7.14H253.349v-7.14a28.561,28.561,0,1,1,57.122,0,41.32,41.32,0,0,1-12.189,29.426l-27.7,27.7Zm14.281,0h14.281v-71.4H324.751V81.986h28.561v85.683h14.281V181.95H324.751Zm49.982,49.982H360.453V203.371h14.281Zm0-157.086H360.453V46.284h14.281Zm0,0" transform="translate(-3.439 -3.439)" fill="#999"/>
+        <path id="Path_77" data-name="Path 77" d="M414.136,0H0v257.05H414.143ZM399.856,242.773H14.281V14.284H399.856Zm0,0" fill="#999"/>
+      </g>
+    </g>
+    <path id="Rectangle_255" data-name="Rectangle 255" d="M.177,2.956,548.549,0l-.177,36.428L0,39.382Z" transform="matrix(0.755, 0.656, -0.656, 0.755, 271.456, 360.169)" fill="#ff0003"/>
+  </g>
+</svg>

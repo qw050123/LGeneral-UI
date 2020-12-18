@@ -1,0 +1,22 @@
+<svg id="更多資訊" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="Group_118" data-name="Group 118">
+    <g id="Group_117" data-name="Group 117">
+      <circle id="Ellipse_142" data-name="Ellipse 142" cx="39.659" cy="39.659" r="39.659" transform="translate(216.341 216.539)" fill="#666"/>
+    </g>
+  </g>
+  <g id="Group_120" data-name="Group 120">
+    <g id="Group_119" data-name="Group 119">
+      <circle id="Ellipse_143" data-name="Ellipse 143" cx="39.659" cy="39.659" r="39.659" transform="translate(335.319 216.539)" fill="#666"/>
+    </g>
+  </g>
+  <g id="Group_122" data-name="Group 122">
+    <g id="Group_121" data-name="Group 121">
+      <circle id="Ellipse_144" data-name="Ellipse 144" cx="39.659" cy="39.659" r="39.659" transform="translate(97.363 216.539)" fill="#666"/>
+    </g>
+  </g>
+  <g id="Group_124" data-name="Group 124">
+    <g id="Group_123" data-name="Group 123">
+      <path id="Path_29" data-name="Path 29" d="M256,0C114.833,0,0,114.833,0,256S114.833,512,256,512,512,397.147,512,256,397.167,0,256,0Zm0,472.341C136.725,472.341,39.659,375.3,39.659,256S136.725,39.659,256,39.659c119.295,0,216.341,97.046,216.341,216.341S375.275,472.341,256,472.341Z" fill="#666"/>
+    </g>
+  </g>
+</svg>

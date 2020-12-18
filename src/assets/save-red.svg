@@ -1,0 +1,22 @@
+<svg id="save-red" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="Group_109" data-name="Group 109">
+    <g id="Group_108" data-name="Group 108">
+      <rect id="Rectangle_211" data-name="Rectangle 211" width="232.727" height="46.545" transform="translate(139.636 372.364)" fill="#9a0036"/>
+    </g>
+  </g>
+  <g id="Group_111" data-name="Group 111">
+    <g id="Group_110" data-name="Group 110">
+      <path id="Path_187" data-name="Path 187" d="M139.636,465.455V512H372.364V465.455Z" fill="#9a0036"/>
+    </g>
+  </g>
+  <g id="Group_113" data-name="Group 113">
+    <g id="Group_112" data-name="Group 112">
+      <path id="Path_188" data-name="Path 188" d="M507.338,133.843,413.823,9.3A23.274,23.274,0,0,0,395.213,0H356.849V193.94a23.275,23.275,0,0,1-23.273,23.273H116.364A23.275,23.275,0,0,1,93.091,193.94V0H23.273A23.275,23.275,0,0,0,0,23.273V488.728A23.274,23.274,0,0,0,23.273,512H93.091V349.09a23.273,23.273,0,0,1,23.273-23.273H395.637A23.272,23.272,0,0,1,418.91,349.09V512h69.818A23.274,23.274,0,0,0,512,488.727V147.817A23.28,23.28,0,0,0,507.338,133.843Z" fill="#9a0036"/>
+    </g>
+  </g>
+  <g id="Group_115" data-name="Group 115">
+    <g id="Group_114" data-name="Group 114">
+      <path id="Path_189" data-name="Path 189" d="M139.636,0V170.667H310.3V0Z" fill="#9a0036"/>
+    </g>
+  </g>
+</svg>
